@@ -1,0 +1,26 @@
+supplier_name,location,sector,gri_indicator_code,gri_indicator_name,gri_category,score,evidence_notes,assessed_date,assessor
+PT Sinar Mas Agro,Medan,Palm Oil,GRI 302,Energy Management,Environmental,78,Renewable energy usage at 35% of total consumption,2025-11-20,Budi Santoso
+PT Pertamina Persero,Jakarta,Energy,GRI 305,Emissions,Environmental,72,Scope 1 and 2 emissions tracking in place,2025-10-15,Siti Nurhaliza
+PT Telkom Indonesia,Bandung,Telecommunications,GRI 403,Occupational Health and Safety,Social,82,Comprehensive health and safety program implemented,2025-09-22,Ahmad Fauzi
+PT Astra International,Jakarta,Automotive,GRI 401,Employment,Social,85,Fair labor practices and employee benefits documented,2025-12-01,Dewi Lestari
+PT Bank Mandiri,Jakarta,Banking,GRI 205,Anti-corruption,Governance,88,Anti-corruption training program for 1000+ employees,2025-11-10,Rudi Hartono
+PT Indofood Sukses Makmur,Surabaya,Food & Beverage,GRI 306,Waste Management,Environmental,74,Waste segregation program with 60% recycling rate,2025-10-28,Siti Nurhaliza
+PT United Tractors,Surabaya,Heavy Equipment,GRI 404,Training and Development,Social,79,Annual training budget 2.5% of payroll,2025-09-15,Ahmad Fauzi
+PT Bukit Asam,Palembang,Mining,GRI 301,Materials,Environmental,68,Biodiversity assessment conducted for mining sites,2025-08-30,Budi Santoso
+PT Adaro Energy,Balikpapan,Mining,GRI 303,Water Management,Environmental,71,Water recycling system reduces consumption by 40%,2025-09-05,Dewi Lestari
+PT Aneka Tambang,Makassar,Mining,GRI 413,Community Relations,Social,76,Community development fund allocated IDR 5 billion,2025-10-12,Rudi Hartono
+PT Chandra Asri,Semarang,Petrochemicals,GRI 302,Energy Management,Environmental,75,Energy efficiency program targeting 5% annual reduction,2025-11-08,Ahmad Fauzi
+PT Kalbe Farma,Bandung,Pharmaceuticals,GRI 405,Diversity and Inclusion,Social,84,Women in management roles 42% of workforce,2025-12-10,Siti Nurhaliza
+PT Sinar Mas Agro,Medan,Palm Oil,GRI 201,Economic Performance,Economic,81,Revenue IDR 85 trillion with 15% YoY growth,2025-12-05,Budi Santoso
+PT Pertamina Persero,Jakarta,Energy,GRI 401,Employment,Social,80,Employee headcount 28000 with benefits coverage 100%,2025-11-25,Dewi Lestari
+PT Telkom Indonesia,Bandung,Telecommunications,GRI 206,Anti-competitive Behavior,Governance,86,Competitive practices reviewed quarterly,2025-10-30,Rudi Hartono
+PT Astra International,Jakarta,Automotive,GRI 302,Energy Management,Environmental,77,EV production facilities using 100% renewable energy,2025-09-18,Ahmad Fauzi
+PT Bank Mandiri,Jakarta,Banking,GRI 413,Community Relations,Social,83,Microcredit program reaches 50000 beneficiaries,2025-11-28,Siti Nurhaliza
+PT Indofood Sukses Makmur,Surabaya,Food & Beverage,GRI 403,Occupational Health and Safety,Social,81,Zero fatalities in 2025 with 12 LTIFR achieved,2025-12-08,Budi Santoso
+PT United Tractors,Surabaya,Heavy Equipment,GRI 301,Materials,Environmental,73,Certified sustainable material sourcing for 70% of inputs,2025-10-05,Dewi Lestari
+PT Bukit Asam,Palembang,Mining,GRI 305,Emissions,Environmental,69,Carbon offset program covers 50% of scope 1 emissions,2025-09-12,Rudi Hartono
+PT Adaro Energy,Balikpapan,Mining,GRI 404,Training and Development,Social,78,Leadership program developed 120 future leaders in 2025,2025-11-15,Ahmad Fauzi
+PT Aneka Tambang,Makassar,Mining,GRI 201,Economic Performance,Economic,77,EBITDA margin 28% with stable dividend payments,2025-10-20,Siti Nurhaliza
+PT Chandra Asri,Semarang,Petrochemicals,GRI 403,Occupational Health and Safety,Social,75,Safety training completion rate 95% of workforce,2025-11-30,Budi Santoso
+PT Kalbe Farma,Bandung,Pharmaceuticals,GRI 413,Community Relations,Social,82,Healthcare access program serving 5 provinces,2025-12-15,Dewi Lestari
+PT Telkom Indonesia,Bandung,Telecommunications,GRI 301,Materials,Environmental,80,Circular economy initiative reducing e-waste by 45%,2025-12-20,Rudi Hartono
